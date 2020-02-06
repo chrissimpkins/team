@@ -1,0 +1,29 @@
+{
+  "name": "wg-parallel-rustc",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Michael Woerister",
+      "github": "michaelwoerister",
+      "github_id": 1825894,
+      "is_lead": true
+    },
+    {
+      "name": "Zoxc",
+      "github": "Zoxc",
+      "github_id": 25784,
+      "is_lead": true
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Parallel rustc",
+    "description": "Making parallel compilation the default for rustc",
+    "page": "wg-parallel-rustc",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/parallel-rustc/",
+    "discord": null,
+    "weight": 0
+  }
+}

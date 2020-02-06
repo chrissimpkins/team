@@ -1,0 +1,44 @@
+{
+  "name": "wg-localization",
+  "kind": "working_group",
+  "subteam_of": "community",
+  "members": [
+    {
+      "name": "Sebastián Magrí",
+      "github": "sebasmagri",
+      "github_id": 11137,
+      "is_lead": true
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": false
+    },
+    {
+      "name": "Mahmut Bulut",
+      "github": "vertexclique",
+      "github_id": 578559,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Localization WG",
+    "description": "Working on localization of compiler, documentation and websites",
+    "page": "wg-localization",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#community-team",
+      "url": "https://discord.gg/cj5HMXA"
+    },
+    "weight": 0
+  }
+}

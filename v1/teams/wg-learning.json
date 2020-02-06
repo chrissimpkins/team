@@ -1,0 +1,68 @@
+{
+  "name": "wg-learning",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Who? Me?!",
+      "github": "mark-i-m",
+      "github_id": 8827840,
+      "is_lead": true
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "github_id": 52642,
+      "is_lead": true
+    },
+    {
+      "name": "Amanjeev Sethi",
+      "github": "amanjeev",
+      "github_id": 160476,
+      "is_lead": false
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "Togi Sergey",
+      "github": "togiberlin",
+      "github_id": 13764830,
+      "is_lead": false
+    },
+    {
+      "name": "Tshepang Lekhonkhobe",
+      "github": "tshepang",
+      "github_id": 588486,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-learning",
+        "members": [
+          160476,
+          13764830,
+          25030997,
+          588486,
+          52642,
+          8827840
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Learning",
+    "description": "Make the compiler easier to learn by ensuring that rustc-guide and api docs are 'complete'",
+    "page": "wg-learning",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/learning/",
+    "discord": null,
+    "weight": 0
+  }
+}

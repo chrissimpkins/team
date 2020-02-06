@@ -1,0 +1,29 @@
+{
+  "name": "reference",
+  "kind": "team",
+  "subteam_of": "docs",
+  "members": [
+    {
+      "name": "Ryan Scheel",
+      "github": "Havvy",
+      "github_id": 731722,
+      "is_lead": true
+    },
+    {
+      "name": "Matthew Jasper",
+      "github": "matthewjasper",
+      "github_id": 20113453,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Reference team",
+    "description": "working on the Rust reference",
+    "page": "reference",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

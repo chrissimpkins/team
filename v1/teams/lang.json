@@ -1,0 +1,96 @@
+{
+  "name": "lang",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "github_id": 162737,
+      "is_lead": true
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    },
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "github_id": 855702,
+      "is_lead": false
+    },
+    {
+      "name": "Taylor Cramer",
+      "github": "cramertj",
+      "github_id": 5963049,
+      "is_lead": false
+    },
+    {
+      "name": "Eduard Burtescu",
+      "github": "eddyb",
+      "github_id": 77424,
+      "is_lead": false
+    },
+    {
+      "name": "Felix Klock",
+      "github": "pnkfelix",
+      "github_id": 173127,
+      "is_lead": false
+    },
+    {
+      "name": "Scott McMurray",
+      "github": "scottmcm",
+      "github_id": 18526288,
+      "is_lead": false
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "github_id": 9063376,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "lang",
+        "members": [
+          162737,
+          18526288,
+          173127,
+          855702,
+          9063376,
+          5963049,
+          77424,
+          155238
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "lang",
+        "members": [
+          162737,
+          18526288,
+          173127,
+          855702,
+          9063376,
+          5963049,
+          77424,
+          155238
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Language team",
+    "description": "designing new language features",
+    "page": "lang",
+    "email": null,
+    "repo": "http://github.com/rust-lang/lang-team",
+    "discord": null,
+    "weight": 0
+  }
+}

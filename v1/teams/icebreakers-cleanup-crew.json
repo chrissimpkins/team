@@ -1,0 +1,15 @@
+{
+  "name": "icebreakers-cleanup-crew",
+  "kind": "marker_team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "github_id": 52642,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": null
+}
